@@ -1,6 +1,3 @@
-
-##  Screenshot
-
  
 Add an image: `![Solar System Screenshot](path-to-image)`
 
